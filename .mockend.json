@@ -2,7 +2,5 @@
   "Post": {
     "albumId": "int",
     "title": "string",
-    "url": "url",
-    "thumbnailUrl": "http://www.google.com"
   }
 }
