@@ -1,6 +1,6 @@
 {
   "Post": {
     "albumId": "int",
-    "title": "string",
+    "title": "string"
   }
 }
