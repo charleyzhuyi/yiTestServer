@@ -3,6 +3,6 @@
     "albumId": "int",
     "title": "string",
     "url": "url",
-    "thumbnailUrl": "url"
+    "thumbnailUrl": "http://www.google.com"
   }
 }
